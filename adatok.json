@@ -1,0 +1,40 @@
+{
+  "ADATLISTA": [
+    {
+      "id": 1,
+      "nev": "Dézi",
+      "fajta": "keverék",
+      "kor": 2
+    },
+    {
+      "id": 3,
+      "nev": "Loki",
+      "fajta": "tacskó",
+      "kor": 5
+    },
+    {
+      "id": 4,
+      "nev": "Zuri",
+      "fajta": "foxterrier",
+      "kor": 4
+    },
+    {
+      "id": 5,
+      "nev": "Happy",
+      "fajta": "németjuhász",
+      "kor": 42
+    },
+    {
+      "id": 6,
+      "nev": "Balto",
+      "fajta": "keverék",
+      "kor": 20
+    },
+    {
+      "id": 7,
+      "nev": "Argosz",
+      "fajta": "Amerikai-stafford",
+      "kor": 3
+    }
+  ]
+}
